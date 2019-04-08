@@ -3,6 +3,15 @@ entries:
   my-chart:
   - apiVersion: v1
     appVersion: "1.0"
+    created: 2019-04-09T00:24:56.561684+08:00
+    description: A Helm chart for Kubernetes
+    digest: 5b62a136778c02662c24b116210c5c9adf2777790c067012265d7896224fd6d2
+    name: my-chart
+    urls:
+    - https://qrtt1.github.io/k8s-helm-lab/my-chart-0.1.2-83d171f.tgz
+    version: 0.1.2-83d171f
+  - apiVersion: v1
+    appVersion: "1.0"
     created: 2019-04-09T00:19:57.458338+08:00
     description: A Helm chart for Kubernetes
     digest: d18760c38f400cb93d84ba1fec24849a9c66b33830b762a0d34bc27676ae297c
@@ -37,4 +46,4 @@ entries:
     urls:
     - https://qrtt1.github.io/k8s-helm-lab/my-chart-0.1.0-6c8f35d.tgz
     version: 0.1.0-6c8f35d
-generated: 2019-04-09T00:19:57.457793+08:00
+generated: 2019-04-09T00:24:56.561126+08:00

@@ -1,0 +1,6 @@
+charts:
+  - name: my-chart
+    repo:
+      git: qrtt1/k8s-helm-lab
+      published: https://qrtt1.github.io/k8s-helm-lab
+

@@ -46,4 +46,23 @@ entries:
     urls:
     - https://qrtt1.github.io/k8s-helm-lab/my-chart-0.1.0-6c8f35d.tgz
     version: 0.1.0-6c8f35d
-generated: 2019-04-09T00:24:56.561126+08:00
+  primehub:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2019-06-19T06:39:15.1973665Z
+    description: PrimeHub Community Edition
+    digest: 65f6ac1b66bcc7dfb0ff2baedac1b270d0f6db044cf661eca306a50b12bbd708
+    home: https://infuseai.io/primehub
+    keywords:
+    - jupyter
+    maintainers:
+    - email: hi@infuseai.io
+      name: InfuseAI Inc.
+    name: primehub
+    sources:
+    - https://gitlab.com/infuseai/charts/primehub
+    tillerVersion: '>=2.11.0'
+    urls:
+    - https://qrtt1.github.io/k8s-helm-lab/primehub-0.1-44575df.tgz
+    version: 0.1-44575df
+generated: 2019-06-19T06:39:15.1923985Z
